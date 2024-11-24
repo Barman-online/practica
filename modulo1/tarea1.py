@@ -1,0 +1,11 @@
+nombre = ("cual es tu nombre?")
+edad = ("cuantos años tienes?")
+residencia = ("donde vives?")
+padres = ("como se llaman tus padres")
+cedula = ("numero de identificacion")
+
+print (nombre)
+print(edad)
+print(residencia)
+print(padres)
+print(cedula)
