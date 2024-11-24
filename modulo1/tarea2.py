@@ -1,0 +1,15 @@
+uber1 = (input("ingrese como tomar un uber:"))
+uber2 = (input("primer paso para tomar un uber:"))
+uber3 = ("veo quien esta disponible para uber:")
+uber4 = ("lo selecciono")
+uber5 = ("salgo de mi casa")
+uber6 = ("lo espero")
+ubar7= ("lo cojo y me voy")
+
+uber = uber1 + uber2 
+print(uber)
+print(uber3)
+print(uber4)
+print(uber5)
+print(uber6)
+print(ubar7)
